@@ -55,7 +55,7 @@ const Hero = ({ darkMode }) => {
           {/* Download CV Button */}
           <div className="mt-4 flex justify-center md:justify-start">
             <a
-              href="/Kalash Mantri 211112246.pdf"
+              href="/portfolio Resume.pdf"
               download="Resume.pdf"
               className={`inline-block px-6 py-3 text-sm sm:text-base font-semibold rounded-lg transition-all duration-300 shadow-md ${
                 darkMode
