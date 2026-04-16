@@ -36,7 +36,7 @@ This is a personal portfolio website built using **Vite**, **React**, and **Tail
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173/) in your browser to view the website.
+4. Open [https://poetic-croissant-14c05e.netlify.app/) in your browser to view the website.
 
 ## 🛠️ Build & Deployment
 
@@ -69,13 +69,6 @@ portfolio/
 
 ## 🔗 Live Demo
 
-[Live Portfolio](https://your-portfolio-link.com)
-
-## 👨‍💻 Author
-
-- **Dayanshi Jain** – [GitHub](https://github.com/Dayanshi123) | [LinkedIn](https://linkedin.com/in/dayanshi-jain)
-
+[Live Portfolio](https://poetic-croissant-14c05e.netlify.app/)
 ---
 
-Feel free to modify and improve the website as per your needs! 🚀
-# Portfolio
