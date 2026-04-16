@@ -7,7 +7,7 @@ const projects = [
     title: "Portfolio",
     description:
       "Designed and developed a personal portfolio website to showcase projects, experience, and skills. Built with a responsive UI, smooth navigation, and optimized performance for a seamless user experience.",
-    github: "https://github.com/Dayanshi123/Portfolio",
+    github: "https://github.com/developer-25/Portfolio",
     image: "/ChatGPT Image Apr 30, 2025, 11_21_25 PM.png",
   },
   {
