@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { FaBars, FaTimes, FaSun, FaMoon } from "react-icons/fa";
 import { LuArrowDownRight } from "react-icons/lu";
 import { Link } from "react-scroll";
@@ -12,8 +12,14 @@ const links = [
 ];
 
 const Navbar = ({ darkMode, setDarkMode }) => {
-  
-  const [isOpen, setIsOpen] = useState(true);
+
+  // ✅ FIX 1: Mobile menu closed by default
+  const [isOpen, setIsOpen] = useState(false);
+
+  // ✅ FIX 2: Force dark mode ON when component loads
+  useEffect(() => {
+    setDarkMode(true);
+  }, []);
 
   return (
     <nav
@@ -108,7 +114,6 @@ const Navbar = ({ darkMode, setDarkMode }) => {
       </div>
     </nav>
   );
-
 };
 
 export default Navbar;
