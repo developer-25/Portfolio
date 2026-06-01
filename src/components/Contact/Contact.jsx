@@ -70,7 +70,7 @@ const Contact = ({ darkMode }) => {
             <div className="flex items-center space-x-3">
               <FaCode className={`text-2xl ${darkMode ? "text-[#56A8F5]" : "text-[#0650d8]"}`} />
               <a
-                href="https://www.geeksforgeeks.org/profile/kalashmanqkuj"
+                href="https://www.geeksforgeeks.org/profile/kalashmanqkuj?tab=activity"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:underline"
