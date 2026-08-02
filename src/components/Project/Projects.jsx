@@ -32,11 +32,13 @@ const projects = [
     image: "/ecommerce.png",
   },
   {
-    title: "NewsVault",
-    description:
-      "A newspaper aggregator that collects and presents news articles from various sources in a clean, user-friendly interface. Built with a frontend framework for optimal performance and easy navigation.",
-    github: "https://github.com/developer-25/NewsVault",
-    image: "/newsVault.png",
+   {
+  title: "Real Estate End-To-End Platform",
+  description:
+    "Developed a full-stack MERN real estate platform with secure authentication, property listing management, image uploads, search and filtering functionality, responsive UI, and cloud-based deployment using Vercel and Render.",
+  github: "https://github.com/developer-25/Real-Estate-End-To-End-Platform",
+  image: "public/real estate image.png",
+}
   },
   {
     title: "Food Delivery App",
