@@ -71,7 +71,7 @@ const Hero = ({ darkMode }) => {
         {/* Right Content (Image) */}
         <div className="flex justify-center flex-1">
           <motion.img
-            src="/kalash photo.jpeg"
+            src="/ChatGPT Image Apr 30, 2025, 11_21_25 PM.png"
             alt="Profile"
             className="w-48 sm:w-56 md:w-64 lg:w-80 rounded-full border-4 shadow-lg 
             transition-all duration-300 
