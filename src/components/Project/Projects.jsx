@@ -37,7 +37,7 @@ const projects = [
   description:
     "Developed a full-stack MERN real estate platform with secure authentication, property listing management, image uploads, search and filtering functionality, responsive UI, and cloud-based deployment using Vercel and Render.",
   github: "https://github.com/developer-25/Real-Estate-End-To-End-Platform",
-  image: "public/real estate image.png",
+  image: "/real estate image.png",
 
   },
   {
